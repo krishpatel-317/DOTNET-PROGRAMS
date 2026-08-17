@@ -1,0 +1,46 @@
+﻿@page
+@model Program3.Pages.UserModel
+
+<h1>User Details</h1>
+
+<form method="post">
+
+    <div>
+        <label asp-for="Name">Name:</label>
+        <input asp-for="Name" />
+    </div>
+
+    <br />
+
+    <div>
+        <label asp-for="Email">Email ID:</label>
+        <input asp-for="Email" type="email" />
+    </div>
+
+    <br />
+
+    <div>
+        <label asp-for="Contact">Contact No:</label>
+        <input asp-for="Contact" type="text" />
+    </div>
+
+    <br />
+
+    <div>
+        <label>Gender:</label>
+
+        <input asp-for="Gender" type="radio" value="Male" />
+        <label>Male</label>
+
+        <input asp-for="Gender" type="radio" value="Female" />
+        <label>Female</label>
+
+        <input asp-for="Gender" type="radio" value="Other" />
+        <label>Other</label>
+    </div>
+
+    <br />
+
+    <button type="submit">Submit</button>
+
+</form>

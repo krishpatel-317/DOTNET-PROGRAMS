@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Krish Patel\\source\\repos\\Program1\\Lab1\\Project1.csproj": {}
+    "C:\\Users\\Krish Patel\\source\\repos\\WAD-LABS\\Lab1\\Project1\\Project1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Krish Patel\\source\\repos\\Program1\\Lab1\\Project1.csproj": {
+    "C:\\Users\\Krish Patel\\source\\repos\\WAD-LABS\\Lab1\\Project1\\Project1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Krish Patel\\source\\repos\\Program1\\Lab1\\Project1.csproj",
+        "projectUniqueName": "C:\\Users\\Krish Patel\\source\\repos\\WAD-LABS\\Lab1\\Project1\\Project1.csproj",
         "projectName": "Project1",
-        "projectPath": "C:\\Users\\Krish Patel\\source\\repos\\Program1\\Lab1\\Project1.csproj",
+        "projectPath": "C:\\Users\\Krish Patel\\source\\repos\\WAD-LABS\\Lab1\\Project1\\Project1.csproj",
         "packagesPath": "C:\\Users\\Krish Patel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Krish Patel\\source\\repos\\Program1\\Lab1\\obj\\",
+        "outputPath": "C:\\Users\\Krish Patel\\source\\repos\\WAD-LABS\\Lab1\\Project1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Krish Patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
